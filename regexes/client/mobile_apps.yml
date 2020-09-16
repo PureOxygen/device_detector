@@ -237,20 +237,20 @@
   regex: 'Snapchat/([\d\.]+)'
   name: 'Snapchat'
   version: '$1'
--
-  regex: 'ByteLocal'
-  name: 'TikTok App'
-  version: '$1'
--
-  regex: 'musical_ly'
-  name: 'TikTok App'
-  version: '$1'
--
-  regex: 'Linkedin'
-  name: 'LinkedIn App'
-  version: '$1'
--
-  regex: 'spotify'
-  name: 'Spotify'
-  version: '$1'
--
+#-
+#  regex: 'ByteLocal'
+#  name: 'TikTok App'
+#  version: '$1'
+#-
+#  regex: 'musical_ly'
+#  name: 'TikTok App'
+#  version: '$1'
+#-
+#  regex: 'Linkedin'
+#  name: 'LinkedIn App'
+#  version: '$1'
+#-
+#  regex: 'spotify'
+#  name: 'Spotify'
+#  version: '$1'
+#-
