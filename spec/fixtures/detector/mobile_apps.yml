@@ -110,7 +110,7 @@
     platform: ""
   client:
     type: mobile app
-    name: Facebook Messenger
+    name: Messenger App
     version: "132.0.0.41.90"
   device:
     type: smartphone
@@ -127,7 +127,7 @@
     platform: ""
   client:
     type: mobile app
-    name: Facebook Messenger
+    name: Messenger App
     version: "122.0.0.40.69"
   device:
     type: tablet
@@ -144,7 +144,7 @@
     platform: ""
   client:
     type: mobile app
-    name: Facebook Messenger
+    name: Messenger App
     version: "114.0.0.21.71"
   device:
     type: smartphone
@@ -161,7 +161,7 @@
     platform: ""
   client:
     type: mobile app
-    name: Facebook Messenger
+    name: Messenger App
     version: "112.0.0.17.70"
   device:
     type: tablet
@@ -178,7 +178,7 @@
     platform: ARM
   client:
     type: mobile app
-    name: Facebook
+    name: Facebook App
     version: "26.0.0.22.16"
   device:
     type: smartphone
