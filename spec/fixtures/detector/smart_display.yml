@@ -28,7 +28,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome
+    name: Chrome Desktop
     short_name: CH
     version: "34.0.1847.114"
     engine: Blink

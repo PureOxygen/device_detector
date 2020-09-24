@@ -8,7 +8,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -28,7 +28,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome
+    name: Chrome Desktop
     short_name: CH
     version: "77.0.3865.116"
     engine: Blink

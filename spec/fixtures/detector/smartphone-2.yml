@@ -8,7 +8,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -28,7 +28,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -68,7 +68,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.98"
     engine: Blink
@@ -88,7 +88,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "75.0.3770.101"
     engine: Blink
@@ -108,7 +108,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "35.0.1916.141"
     engine: Blink
@@ -128,7 +128,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "40.0.2214.109"
     engine: Blink
@@ -148,7 +148,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.121"
     engine: Blink
@@ -168,7 +168,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "67.0.3396.87"
     engine: Blink
@@ -188,7 +188,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "60.0.3112.116"
     engine: Blink
@@ -208,7 +208,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "66.0.3359.158"
     engine: Blink
@@ -228,7 +228,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "66.0.3359.126"
     engine: Blink
@@ -248,7 +248,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "79.0.3945.93"
     engine: Blink
@@ -268,7 +268,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "69.0.3497.100"
     engine: Blink
@@ -308,7 +308,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "69.0.3497.100"
     engine: Blink
@@ -328,7 +328,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "66.0.3359.126"
     engine: Blink
@@ -348,7 +348,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "67.0.3396.87"
     engine: Blink
@@ -368,7 +368,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "73.0.3683.90"
     engine: Blink
@@ -408,7 +408,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "75.0.3770.143"
     engine: Blink
@@ -448,7 +448,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "80.0.3987.87"
     engine: Blink
@@ -468,7 +468,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "49.0.2623.105"
     engine: Blink
@@ -488,7 +488,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "59.0.3071.125"
     engine: Blink
@@ -508,7 +508,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.121"
     engine: Blink
@@ -528,7 +528,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "74.0.3729.157"
     engine: Blink
@@ -548,7 +548,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -568,7 +568,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -588,7 +588,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "59.0.3071.125"
     engine: Blink
@@ -608,7 +608,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -628,7 +628,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -648,7 +648,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -668,7 +668,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -688,7 +688,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -708,7 +708,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "43.0.2357.93"
     engine: Blink
@@ -728,7 +728,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -748,7 +748,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -908,7 +908,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "54.0.2840.85"
     engine: Blink
@@ -928,7 +928,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -948,7 +948,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "69.0.3497.100"
     engine: Blink
@@ -968,7 +968,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "39.0.0.0"
     engine: Blink
@@ -988,7 +988,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "46.0.2490.76"
     engine: Blink
@@ -1008,7 +1008,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "43.0.2357.121"
     engine: Blink
@@ -1028,7 +1028,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "51.0.2704.81"
     engine: Blink
@@ -1048,7 +1048,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "62.0.3202.84"
     engine: Blink
@@ -1068,7 +1068,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -1088,7 +1088,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "33.0.0.0"
     engine: Blink
@@ -1108,7 +1108,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "43.0.2357.93"
     engine: Blink
@@ -1128,7 +1128,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "33.0.0.0"
     engine: Blink
@@ -1148,7 +1148,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "39.0.0.0"
     engine: Blink
@@ -1168,7 +1168,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "66.0.3359.158"
     engine: Blink
@@ -1188,7 +1188,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -1208,7 +1208,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -1228,7 +1228,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "64.0.3282.137"
     engine: Blink
@@ -1248,7 +1248,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "59.0.3071.125"
     engine: Blink
@@ -1268,7 +1268,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "64.0.3282.137"
     engine: Blink
@@ -1288,7 +1288,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.85"
     engine: Blink
@@ -1308,7 +1308,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "64.0.3282.137"
     engine: Blink
@@ -1328,7 +1328,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "67.0.3396.87"
     engine: Blink
@@ -1348,7 +1348,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -1368,7 +1368,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "54.0.2840.85"
     engine: Blink
@@ -1388,7 +1388,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -1448,7 +1448,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "40.0.2214.109"
     engine: Blink
@@ -1508,7 +1508,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "62.0.3202.73"
     engine: Blink
@@ -1568,7 +1568,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "69.0.3497.91"
     engine: Blink
@@ -1608,7 +1608,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "36.0.1985.135"
     engine: Blink
@@ -1628,7 +1628,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "64.0.3282.116"
     engine: Blink
@@ -1648,7 +1648,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -1748,7 +1748,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "47.0.2526.83"
     engine: Blink
@@ -1768,7 +1768,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -1788,7 +1788,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "64.0.3282.123"
     engine: Blink
@@ -1808,7 +1808,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -1828,7 +1828,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "66.0.3359.158"
     engine: Blink
@@ -1848,7 +1848,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "67.0.3396.87"
     engine: Blink
@@ -1868,7 +1868,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "64.0.3282.137"
     engine: Blink
@@ -1888,7 +1888,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "69.0.3497.91"
     engine: Blink
@@ -1928,7 +1928,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "35.0.1916.141"
     engine: Blink
@@ -1948,7 +1948,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.85"
     engine: Blink
@@ -1968,7 +1968,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -2008,7 +2008,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "39.0.0.0"
     engine: Blink
@@ -2028,7 +2028,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "54.0.2840.85"
     engine: Blink
@@ -2048,7 +2048,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -2068,7 +2068,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "62.0.3202.84"
     engine: Blink
@@ -2088,7 +2088,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -2108,7 +2108,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -2128,7 +2128,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "58.0.3029.83"
     engine: Blink
@@ -2168,7 +2168,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "79.0.3945.93"
     engine: Blink
@@ -2188,7 +2188,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "58.0.3029.83"
     engine: Blink
@@ -2208,7 +2208,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -2228,7 +2228,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "64.0.3282.137"
     engine: Blink
@@ -2248,7 +2248,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "79.0.3945.136"
     engine: Blink
@@ -2268,7 +2268,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "79.0.3945.93"
     engine: Blink
@@ -2308,7 +2308,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "41.0.2272.96"
     engine: Blink
@@ -2348,7 +2348,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "34.0.1847.114"
     engine: Blink
@@ -2388,7 +2388,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "34.0.1847.114"
     engine: Blink
@@ -2468,7 +2468,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -2548,7 +2548,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "40.0.2214.109"
     engine: Blink
@@ -2628,7 +2628,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "42.0.2311.111"
     engine: Blink
@@ -2648,7 +2648,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "35.0.1916.141"
     engine: Blink
@@ -2668,7 +2668,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -2688,7 +2688,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -2708,7 +2708,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -2728,7 +2728,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -2748,7 +2748,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "48.0.2564.95"
     engine: Blink
@@ -2768,7 +2768,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "50.0.2661.89"
     engine: Blink
@@ -2788,7 +2788,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "50.0.2661.89"
     engine: Blink
@@ -2808,7 +2808,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "58.0.3029.83"
     engine: Blink
@@ -2828,7 +2828,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -2848,7 +2848,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -2868,7 +2868,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -2888,7 +2888,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "66.0.3359.126"
     engine: Blink
@@ -2908,7 +2908,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "65.0.3325.109"
     engine: Blink
@@ -2928,7 +2928,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "67.0.3396.87"
     engine: Blink
@@ -2948,7 +2948,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -2968,7 +2968,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -2988,7 +2988,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "44.0.2403.119"
     engine: Blink
@@ -3008,7 +3008,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -3028,7 +3028,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "50.0.2661.89"
     engine: Blink
@@ -3048,7 +3048,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "62.0.3202.84"
     engine: Blink
@@ -3068,7 +3068,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -3088,7 +3088,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3108,7 +3108,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3128,7 +3128,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "55.0.2883.91"
     engine: Blink
@@ -3148,7 +3148,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -3168,7 +3168,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3288,7 +3288,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3308,7 +3308,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -3348,7 +3348,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -3368,7 +3368,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -3388,7 +3388,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "60.0.3112.107"
     engine: Blink
@@ -3408,7 +3408,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.76"
     engine: Blink
@@ -3448,7 +3448,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3468,7 +3468,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -3488,7 +3488,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -3508,7 +3508,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -3528,7 +3528,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3548,7 +3548,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.76"
     engine: Blink
@@ -3568,7 +3568,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -3588,7 +3588,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -3608,7 +3608,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -3628,7 +3628,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3648,7 +3648,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -3668,7 +3668,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "34.0.1847.114"
     engine: Blink
@@ -3688,7 +3688,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -3708,7 +3708,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "69.0.3497.100"
     engine: Blink
@@ -3728,7 +3728,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "33.0.1750.136"
     engine: Blink
@@ -3748,7 +3748,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3788,7 +3788,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "50.0.2661.89"
     engine: Blink
@@ -3808,7 +3808,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3828,7 +3828,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -3848,7 +3848,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3868,7 +3868,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3908,7 +3908,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3928,7 +3928,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -3968,7 +3968,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -4008,7 +4008,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "34.0.1847.114"
     engine: Blink
@@ -4048,7 +4048,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.64"
     engine: Blink
@@ -4068,7 +4068,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -4088,7 +4088,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -4108,7 +4108,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -4128,7 +4128,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -4148,7 +4148,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "58.0.3029.83"
     engine: Blink
@@ -4168,7 +4168,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "64.0.3282.123"
     engine: Blink
@@ -4188,7 +4188,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -4208,7 +4208,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -4228,7 +4228,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -4248,7 +4248,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.83"
     engine: Blink
@@ -4268,7 +4268,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -4288,7 +4288,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "67.0.3396.87"
     engine: Blink
@@ -4308,7 +4308,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.76"
     engine: Blink
@@ -4328,7 +4328,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.76"
     engine: Blink
@@ -4348,7 +4348,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "41.0.2272.96"
     engine: Blink
@@ -4368,7 +4368,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -4388,7 +4388,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.105"
     engine: Blink
@@ -4428,7 +4428,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.105"
     engine: Blink
@@ -4448,7 +4448,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "52.0.2743.98"
     engine: Blink
@@ -4568,7 +4568,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "75.0.3770.101"
     engine: Blink
@@ -4588,7 +4588,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -4628,7 +4628,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -4648,7 +4648,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "68.0.3440.91"
     engine: Blink
@@ -4668,7 +4668,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "77.0.3865.73"
     engine: Blink
@@ -4708,7 +4708,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.64"
     engine: Blink
@@ -4728,7 +4728,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "49.0.2623.105"
     engine: Blink
@@ -4825,7 +4825,7 @@
     platform: ""
   client:
     type: mobile app
-    name: WeChat
+    name: WeChat App
     version: "6.1.0.66.r1062275.542"
   device:
     type: smartphone
@@ -4882,7 +4882,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "39.0.0.0"
     engine: Blink
@@ -4902,7 +4902,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "39.0.0.0"
     engine: Blink
@@ -4982,7 +4982,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "33.0.1750.136"
     engine: Blink
@@ -5002,7 +5002,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "32.0.1700.99"
     engine: Blink
@@ -5022,7 +5022,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -5042,7 +5042,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "40.0.2214.89"
     engine: Blink
@@ -5062,7 +5062,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "40.0.2214.109"
     engine: Blink
@@ -5082,7 +5082,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -5102,7 +5102,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.96"
     engine: Blink
@@ -5122,7 +5122,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "40.0.2214.109"
     engine: Blink
@@ -5142,7 +5142,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "40.0.2214.109"
     engine: Blink
@@ -5162,7 +5162,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -5182,7 +5182,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -5202,7 +5202,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome
+    name: Chrome Desktop
     short_name: CH
     version: "70.0.3538.110"
     engine: Blink
@@ -5222,7 +5222,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -5242,7 +5242,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -5262,7 +5262,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -5282,7 +5282,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -5302,7 +5302,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -5322,7 +5322,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -5342,7 +5342,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -5362,7 +5362,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -5382,7 +5382,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -5402,7 +5402,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -5422,7 +5422,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -5442,7 +5442,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -5462,7 +5462,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.76"
     engine: Blink
@@ -5482,7 +5482,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -5502,7 +5502,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -5542,7 +5542,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "75.0.3770.101"
     engine: Blink
@@ -5582,7 +5582,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "61.0.3163.98"
     engine: Blink
@@ -5602,7 +5602,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "39.0.2171.93"
     engine: Blink
@@ -5622,7 +5622,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "63.0.3239.111"
     engine: Blink
@@ -5682,7 +5682,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "43.0.2357.65"
     engine: Blink
@@ -5702,7 +5702,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "73.0.3683.90"
     engine: Blink
@@ -5762,7 +5762,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "63.0.3239.111"
     engine: Blink
@@ -5782,7 +5782,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -5822,7 +5822,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "74.0.3729.157"
     engine: Blink
@@ -5842,7 +5842,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "43.0.2357.65"
     engine: Blink
@@ -6022,7 +6022,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -6062,7 +6062,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "75.0.3770.101"
     engine: Blink
@@ -6082,7 +6082,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "80.0.3987.99"
     engine: Blink
@@ -6122,7 +6122,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "72.0.3626.105"
     engine: Blink
@@ -6142,7 +6142,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "80.0.3987.99"
     engine: Blink
@@ -6162,7 +6162,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "64.0.3282.137"
     engine: Blink
@@ -6182,7 +6182,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.110"
     engine: Blink
@@ -6202,7 +6202,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -6242,7 +6242,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.121"
     engine: Blink
@@ -6282,7 +6282,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "43.0.2357.121"
     engine: Blink
@@ -6322,7 +6322,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -6342,7 +6342,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "39.0.0.0"
     engine: Blink
@@ -6362,7 +6362,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "62.0.3202.84"
     engine: Blink
@@ -6382,7 +6382,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "73.0.3683.90"
     engine: Blink
@@ -6402,7 +6402,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "75.0.3770.101"
     engine: Blink
@@ -6422,7 +6422,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "78.0.3904.108"
     engine: Blink
@@ -6462,7 +6462,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "39.0.0.0"
     engine: Blink
@@ -6482,7 +6482,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -6502,7 +6502,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -6542,7 +6542,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "75.0.3770.89"
     engine: Blink
@@ -6642,7 +6642,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "50.0.2661.89"
     engine: Blink
@@ -6662,7 +6662,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "39.0.0.0"
     engine: Blink
@@ -6682,7 +6682,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -6742,7 +6742,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "43.0.2357.65"
     engine: Blink
@@ -6762,7 +6762,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -6782,7 +6782,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -6802,7 +6802,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "75.0.3770.101"
     engine: Blink
@@ -6822,7 +6822,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "73.0.3683.90"
     engine: Blink
@@ -6842,7 +6842,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "76.0.3809.89"
     engine: Blink
@@ -6862,7 +6862,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "64.0.3282.137"
     engine: Blink
@@ -6939,7 +6939,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "75.0.3770.101"
     engine: Blink
@@ -6979,7 +6979,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -6999,7 +6999,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "66.0.3359.126"
     engine: Blink
@@ -7019,7 +7019,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -7079,7 +7079,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -7119,7 +7119,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "73.0.3683.90"
     engine: Blink
@@ -7139,7 +7139,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "80.0.3987.149"
     engine: Blink
@@ -7159,7 +7159,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "43.0.2357.65"
     engine: Blink
@@ -7179,7 +7179,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "73.0.3683.90"
     engine: Blink
@@ -7199,7 +7199,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "56.0.2924.87"
     engine: Blink
@@ -7219,7 +7219,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "70.0.3538.110"
     engine: Blink
@@ -7259,7 +7259,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "68.0.3440.91"
     engine: Blink
@@ -7299,7 +7299,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "49.0.2623.91"
     engine: Blink
@@ -7319,7 +7319,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "66.0.3359.158"
     engine: Blink
@@ -7339,7 +7339,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "66.0.3359.158"
     engine: Blink
@@ -7359,7 +7359,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "72.0.3626.105"
     engine: Blink
@@ -7399,7 +7399,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "43.0.2357.65"
     engine: Blink
@@ -7439,7 +7439,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "56.0.2924.87"
     engine: Blink
@@ -7459,7 +7459,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "56.0.2924.87"
     engine: Blink
@@ -7479,7 +7479,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "65.0.3325.109"
     engine: Blink
@@ -7499,7 +7499,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "69.0.3497.100"
     engine: Blink
@@ -7519,7 +7519,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -7539,7 +7539,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "74.0.3729.112"
     engine: Blink
@@ -7559,7 +7559,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.121"
     engine: Blink
@@ -7579,7 +7579,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.98"
     engine: Blink
@@ -7619,7 +7619,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "58.0.3029.83"
     engine: Blink
@@ -7659,7 +7659,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "50.0.2661.89"
     engine: Blink
@@ -7699,7 +7699,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "67.0.3396.87"
     engine: Blink
@@ -7719,7 +7719,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "62.0.3202.84"
     engine: Blink
@@ -7759,7 +7759,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "76.0.3809.89"
     engine: Blink
@@ -7799,7 +7799,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "68.0.3440.91"
     engine: Blink
@@ -7839,7 +7839,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "55.0.2883.91"
     engine: Blink
@@ -7859,7 +7859,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "58.0.3029.83"
     engine: Blink
@@ -7879,7 +7879,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "74.0.3729.169"
     engine: Blink
@@ -7899,7 +7899,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "66.0.3359.126"
     engine: Blink
@@ -7939,7 +7939,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "44.0.2403.119"
     engine: Blink
@@ -7959,7 +7959,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "63.0.3239.111"
     engine: Blink
@@ -7979,7 +7979,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "43.0.2357.65"
     engine: Blink
@@ -7999,7 +7999,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "42.0.2311.68"
     engine: Blink
@@ -8139,7 +8139,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "68.0.3440.91"
     engine: Blink
@@ -8159,7 +8159,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "50.0.2661.86"
     engine: Blink
@@ -8179,7 +8179,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -8199,7 +8199,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "79.0.3945.93"
     engine: Blink
@@ -8219,7 +8219,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "70.0.3538.80"
     engine: Blink
@@ -8239,7 +8239,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "80.0.3987.149"
     engine: Blink
@@ -8279,7 +8279,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "59.0.3071.125"
     engine: Blink
@@ -8319,7 +8319,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -8339,7 +8339,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "58.0.3029.83"
     engine: Blink
@@ -8359,7 +8359,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "58.0.3029.83"
     engine: Blink
@@ -8379,7 +8379,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -8399,7 +8399,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -8439,7 +8439,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "39.0.0.0"
     engine: Blink
@@ -8459,7 +8459,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "30.0.1599.92"
     engine: Blink
@@ -8479,7 +8479,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -8519,7 +8519,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -8539,7 +8539,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -8559,7 +8559,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "30.0.0.0"
     engine: Blink
@@ -8579,7 +8579,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "59.0.3071.125"
     engine: Blink
@@ -8599,7 +8599,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "48.0.2564.95"
     engine: Blink
@@ -8619,7 +8619,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "59.0.3071.92"
     engine: Blink
@@ -8639,7 +8639,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -8679,7 +8679,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "44.0.2403.119"
     engine: Blink
@@ -8699,7 +8699,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "59.0.3071.125"
     engine: Blink
@@ -8739,7 +8739,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "47.0.2526.83"
     engine: Blink
@@ -8759,7 +8759,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "51.0.2704.81"
     engine: Blink
@@ -8779,7 +8779,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "78.0.3904.108"
     engine: Blink
@@ -8799,7 +8799,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "76.0.3809.132"
     engine: Blink
@@ -8819,7 +8819,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "42.0.2311.111"
     engine: Blink
@@ -8859,7 +8859,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "38.0.2125.102"
     engine: Blink
@@ -8879,7 +8879,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "56.0.2924.87"
     engine: Blink
@@ -8899,7 +8899,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "47.0.2526.83"
     engine: Blink
@@ -8919,7 +8919,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "60.0.3112.50"
     engine: Blink
@@ -8939,7 +8939,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "45.0.2454.84"
     engine: Blink
@@ -8959,7 +8959,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "49.0.2623.91"
     engine: Blink
@@ -8979,7 +8979,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "55.0.2883.91"
     engine: Blink
@@ -8999,7 +8999,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "54.0.2840.85"
     engine: Blink
@@ -9019,7 +9019,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "46.0.2490.76"
     engine: Blink
@@ -9039,7 +9039,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "46.0.2490.76"
     engine: Blink
@@ -9059,7 +9059,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -9079,7 +9079,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "69.0.3497.100"
     engine: Blink
@@ -9099,7 +9099,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "78.0.3904.108"
     engine: Blink
@@ -9119,7 +9119,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "80.0.3987.119"
     engine: Blink
@@ -9139,7 +9139,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "79.0.3945.93"
     engine: Blink
@@ -9159,7 +9159,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "72.0.3626.121"
     engine: Blink
@@ -9179,7 +9179,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -9199,7 +9199,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "59.0.3071.92"
     engine: Blink
@@ -9219,7 +9219,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "80.0.3987.132"
     engine: Blink
@@ -9259,7 +9259,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "77.0.3865.116"
     engine: Blink
@@ -9279,7 +9279,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "80.0.3987.132"
     engine: Blink
@@ -9299,7 +9299,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "52.0.2743.98"
     engine: Blink
@@ -9319,7 +9319,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "60.0.3112.107"
     engine: Blink
@@ -9339,7 +9339,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "55.0.2883.91"
     engine: Blink
@@ -9359,7 +9359,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "56.0.2924.87"
     engine: Blink
@@ -9379,7 +9379,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "52.0.2743.98"
     engine: Blink
@@ -9399,7 +9399,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "55.0.2883.91"
     engine: Blink
@@ -9439,7 +9439,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "51.0.2704.81"
     engine: Blink
@@ -9459,7 +9459,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "55.0.2883.91"
     engine: Blink
@@ -9499,7 +9499,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "80.0.3987.119"
     engine: Blink
@@ -9519,7 +9519,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "67.0.3396.87"
     engine: Blink
@@ -9539,7 +9539,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "67.0.3396.87"
     engine: Blink
@@ -9559,7 +9559,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -9579,7 +9579,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -9599,7 +9599,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "57.0.2987.132"
     engine: Blink
@@ -9619,7 +9619,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "63.0.3239.111"
     engine: Blink
@@ -9639,7 +9639,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "58.0.3029.83"
     engine: Blink
@@ -9659,7 +9659,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Webview
+    name: Chrome In-App
     short_name: CV
     version: "66.0.3359.126"
     engine: Blink
@@ -9679,7 +9679,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -9699,7 +9699,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -9719,7 +9719,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "58.0.3029.83"
     engine: Blink
@@ -9739,7 +9739,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "60.0.3112.116"
     engine: Blink
@@ -9759,7 +9759,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -9779,7 +9779,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "57.0.2987.132"
     engine: Blink
@@ -9799,7 +9799,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "63.0.3239.111"
     engine: Blink
@@ -9819,7 +9819,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "67.0.3396.87"
     engine: Blink
@@ -9839,7 +9839,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "51.0.2704.81"
     engine: Blink
@@ -9859,7 +9859,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
@@ -9879,7 +9879,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "65.0.3325.109"
     engine: Blink
@@ -9899,7 +9899,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "52.0.2743.98"
     engine: Blink
@@ -9919,7 +9919,7 @@
     platform: ""
   client:
     type: browser
-    name: Firefox Mobile
+    name: Firefox Android
     short_name: FM
     version: "48.0"
     engine: Gecko
@@ -9939,7 +9939,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "74.0.3729.157"
     engine: Blink
@@ -9979,7 +9979,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Mobile
+    name: Chrome Android
     short_name: CM
     version: "71.0.3578.99"
     engine: Blink
