@@ -8,7 +8,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Desktop
+    name: Chrome
     short_name: CH
     version: "53.0.2785.143"
     engine: Blink
@@ -28,7 +28,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Android
+    name: Chrome Mobile
     short_name: CM
     version: "19.77.34.5"
     engine: WebKit

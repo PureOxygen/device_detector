@@ -28,7 +28,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Android
+    name: Chrome Mobile
     short_name: CM
     version: "77.0.3865.92"
     engine: Blink
@@ -88,7 +88,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Android
+    name: Chrome Mobile
     short_name: CM
     version: "35.0.1916.141"
     engine: Blink
@@ -108,7 +108,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome Android
+    name: Chrome Mobile
     short_name: CM
     version: "18.0.1025.166"
     engine: WebKit
@@ -128,7 +128,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome In-App
+    name: Chrome Webview
     short_name: CV
     version: "18.0.1025.308"
     engine: WebKit

@@ -13,7 +13,7 @@ describe DeviceDetector do
 
       describe '#name' do
         it 'returns the name' do
-          value(client.name).must_equal 'Chrome Desktop'
+          value(client.name).must_equal 'Chrome'
         end
       end
 
