@@ -42,7 +42,7 @@
     platform: ""
   client:
     type: browser
-    name: Chrome In-App
+    name: Chrome Webview
     short_name: CV
     version: "59.0.3071.125"
     engine: Blink

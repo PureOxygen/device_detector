@@ -622,12 +622,12 @@
 
 #Firefox Mobile
 - regex: '(?:Mobile|Tablet).*Servo.*Firefox(?:/(\d+[\.\d]+))?'
-  name: 'Firefox Android'
+  name: 'Firefox Mobile'
   version: '$1'
   engine:
     default: 'Servo'
 - regex: '(?:Mobile|Tablet).*Firefox(?:/(\d+[\.\d]+))?'
-  name: 'Firefox Android'
+  name: 'Firefox Mobile'
   version: '$1'
   engine:
     default: 'Gecko'
@@ -639,17 +639,17 @@
 
 #Firefox
 - regex: '.*Servo.*Firefox(?:/(\d+[\.\d]+))?'
-  name: 'Firefox Desktop'
+  name: 'Firefox'
   version: '$1'
   engine:
     default: 'Servo'
 - regex: 'Firefox(?:/(\d+[\.\d]+))?'
-  name: 'Firefox Desktop'
+  name: 'Firefox'
   version: '$1'
   engine:
     default: 'Gecko'
 - regex: '(?:BonEcho|GranParadiso|Lorentz|Minefield|Namoroka|Shiretoko)/(\d+[\.\d]+)'
-  name: 'Firefox Desktop'
+  name: 'Firefox'
   version: '$1'
   engine:
     default: 'Gecko'
@@ -1219,7 +1219,7 @@
 
 # Chrome Webview
 - regex: 'Version/.* Chrome(?:/(\d+[\.\d]+))?'
-  name: 'Chrome In-App'
+  name: 'Chrome Webview'
   version: '$1'
   engine:
     default: 'WebKit'
@@ -1228,7 +1228,7 @@
 
 #Chrome
 - regex: 'CrMo(?:/(\d+[\.\d]+))?'
-  name: 'Chrome Android'
+  name: 'Chrome Mobile'
   version: '$1'
   engine:
     default: 'WebKit'
@@ -1240,7 +1240,7 @@
   engine:
     default: 'WebKit'
 - regex: 'Chrome(?:/(\d+[\.\d]+))? Mobile'
-  name: 'Chrome Android'
+  name: 'Chrome Mobile'
   version: '$1'
   engine:
     default: 'WebKit'
@@ -1264,7 +1264,7 @@
   engine:
     default: 'Blink'
 - regex: 'Chrome(?!book)(?:/(\d+[\.\d]+))?'
-  name: 'Chrome Desktop'
+  name: 'Chrome'
   version: '$1'
   engine:
     default: 'WebKit'
@@ -1686,17 +1686,17 @@
 
 #Safari
 - regex: '(?:(?:iPod|iPad|iPhone).+Version|MobileSafari)/(\d+[\.\d]+)'
-  name: 'Safari iOS'
+  name: 'Mobile Safari'
   version: '$1'
   engine:
     default: 'WebKit'
 - regex: '(?:Version/(\d+[\.\d]+).*)?Mobile.*Safari/'
-  name: 'Safari iOS'
+  name: 'Mobile Safari'
   version: '$1'
   engine:
     default: 'WebKit'
 - regex: '(?:iPod|iPhone|iPad)'
-  name: 'Safari iOS'
+  name: 'Mobile Safari'
   version: ''
   engine:
     default: 'WebKit'

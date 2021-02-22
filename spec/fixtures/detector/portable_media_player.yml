@@ -8,7 +8,7 @@
     platform: ""
   client:
     type: browser
-    name: Safari iOS
+    name: Mobile Safari
     short_name: MF
     version: ""
     engine: WebKit
@@ -28,7 +28,7 @@
     platform: ""
   client:
     type: browser
-    name: Safari iOS
+    name: Mobile Safari
     short_name: MF
     version: ""
     engine: WebKit
